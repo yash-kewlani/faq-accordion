@@ -19,8 +19,8 @@ Completed the FAQ accordion challengev Frontend Mentor challenge
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/yash-kewlani/product-preview-card-component)
-- Live Site URL: [product-preview-card-component](https://yash-kewlani.github.io/product-preview-card-component/)
+- Solution URL: [Solution](https://github.com/yash-kewlani/faq-accordion)
+- Live Site URL: [faq-accordion](https://yash-kewlani.github.io/faq-accordion/)
 
 ## My process
 
@@ -41,5 +41,5 @@ My current focus for know is to learn CSS. Once that is done, I will focus on so
 
 ## Author
 
-- Website - [Yash Kewlani](https://yash-kewlani.github.io/product-preview-card-component/)
+- Website - [Yash Kewlani](https://yash-kewlani.github.io/faq-accordion/)
 - Frontend Mentor - [@yash-kewlani](https://www.frontendmentor.io/profile/yash-kewlani)
